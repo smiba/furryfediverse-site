@@ -49,6 +49,7 @@ export default function HomeClient({ general, niche, ios, android }: HomeClientP
     "https://bark.lgbt/auth/sign_up",
     "https://pawb.fun/auth/sign_up",
     "https://meemu.org/auth/sign_up",
+    "https://woof.tech/auth/sign_up",
   ];
   const randomInstance = getRandomInstance(suggestedInstances);
 
